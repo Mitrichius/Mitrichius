@@ -1,6 +1,4 @@
-#### Hi there! 
-<br/> 
-
+#### Hi there!
 🧔 I'm Dmitry, backend developer and former QA engineer from Moscow, Russia.  
 ✍️ Have a [blog](https://dmitrykolosov.ru/) on Russian. BTW, [theme](https://github.com/Mitrichius/hugo-theme-anubis) is selfmaded.  
 🎮 Passionate about gaming (PS4/Switch now, PC in the past).  
@@ -10,7 +8,7 @@
 
 👨‍💻 **Currently**, improve pet-projects: 
 - [Anubis theme for Hugo](https://github.com/Mitrichius/hugo-theme-anubis)
-- [Wishlist app](https://github.com/Mitrichius/wishlist). 
+- [Wishlist app](https://github.com/Mitrichius/wishlist)
 <br/>  
 
 <details>
